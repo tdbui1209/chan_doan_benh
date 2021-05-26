@@ -1,0 +1,351 @@
+ID benh nhan,Dinh luong Ure (2.5-7.5 mmol/L),Danh gia,Dinh luong Creatinin (60-104 mmol/L),Danh gia,Nong do glucose (50-200mg/dL),Danh gia,Nong do acid uric ( 180-420 mmol/l),Danh gia,Luong glucose huyet thanh trung binh HbA1c (50-137mg/dL),Danh gia,Dinh luong d nieu (protein nuoc tieu) 24 gio (50-200mg/l/24h),Danh gia,Chan doan benh,Phong kham,So cho trong (1-10),So nguoi trong phong,DF,Thoi gian kh TB (phut),Thoi gian kham
+160,1.9,Thap,30,Thap,18,Thap,443,Cao,93,Trung binh,34,Thap,Gut,102,7,3,"[0, 0, 0 ,2, 1, 0, 1]",10,9.01
+173,1.7,Thap,29,Thap,44,Thap,439,Cao,129,Trung binh,13,Thap,Gut,103,5,5,"[0, 0, 0 ,2, 1, 0, 1]",22,9.11
+63,2.2,Thap,49,Thap,212,Cao,179,Thap,186,Cao,22,Thap,Tieu duong,200,3,7,"[0, 0, 2, 0, 2, 0, 0]",25,9.21
+263,7.9,Cao,129,Cao,49,Thap,441,Cao,37,Thap,220,Cao,Suy than,301,3,7,"[2, 2, 0, 2, 0, 2, 2]",17,9.31
+74,1.8,Thap,41,Thap,223,Cao,140,Thap,152,Cao,42,Thap,Tieu duong,202,2,8,"[0, 0, 2, 0, 2, 0, 0]",14,9.41
+152,1.1,Thap,21,Thap,32,Thap,456,Cao,80,Trung binh,25,Thap,Gut,103,7,3,"[0, 0, 0 ,2, 1, 0, 1]",18,9.51
+62,2.1,Thap,57,Thap,255,Cao,134,Thap,144,Cao,38,Thap,Tieu duong,202,7,3,"[0, 0, 2, 0, 2, 0, 0]",11,10.01
+215,9.1,Cao,143,Cao,195,Trung binh,427,Cao,69,Trung binh,243,Cao,Suy than,301,4,6,"[2, 2, 1, 2, 1, 2, 2]",17,10.11
+119,4.5,Trung binh,67,Trung binh,56,Trung binh,479,Cao,63,Trung binh,82,Trung binh,Gut,103,4,6,"[1, 1, 1, 2, 1, 1, 1]",15,10.21
+344,4.3,Trung binh,61,Trung binh ,188,Trung binh,371,Trung binh,112,Trung binh,84,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,10.31
+212,8.8,Cao,143,Cao,141,Trung binh,467,Cao,53,Trung binh,208,Cao,Suy than,301,7,3,"[2, 2, 1, 2, 1, 2, 2]",16,10.41
+245,9.1,Cao,119,Cao,81,Trung binh,464,Cao,80,Trung binh,204,Cao,Suy than,301,3,7,"[2, 2, 1, 2, 1, 2, 2]",15,10.51
+92,2.1,Thap,50,Thap,229,Cao,139,Thap,150,Cao,33,Thap,Tieu duong,202,0,10,"[0, 0, 2, 0, 2, 0, 0]",18,11.01
+259,10.5,Cao,139,Cao,57,Thap,453,Cao,36,Thap,230,Cao,Suy than,303,4,6,"[2, 2, 0, 2, 0, 2, 2]",14,11.11
+145,7.1,Trung binh,81,Trung binh,90,Trung binh,482,Cao,95,Trung binh,51,Trung binh,Gut,102,5,5,"[1, 1, 1, 2, 1, 1, 1]",19,11.21
+345,4.4,Trung binh,98,Trung binh ,137,Trung binh,226,Trung binh,63,Trung binh,133,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,11.31
+202,7.8,Cao,127,Cao,199,Trung binh,468,Cao,70,Trung binh,209,Cao,Suy than,303,0,10,"[2, 2, 1, 2, 1, 2, 2]",22,11.41
+305,3,Trung binh,102,Trung binh ,162,Trung binh,387,Trung binh,134,Trung binh,138,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,11.51
+336,3.5,Trung binh,76,Trung binh ,92,Trung binh,342,Trung binh,101,Trung binh,75,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,12.01
+264,8,Cao,130,Cao,153,Thap,459,Cao,28,Thap,222,Cao,Suy than,302,5,5,"[2, 2, 0, 2, 0, 2, 2]",12,12.11
+205,8.1,Cao,123,Cao,191,Trung binh,444,Cao,82,Trung binh,247,Cao,Suy than,303,2,8,"[2, 2, 1, 2, 1, 2, 2]",22,12.21
+219,9.5,Cao,128,Cao,147,Trung binh,459,Cao,54,Trung binh,249,Cao,Suy than,302,1,9,"[2, 2, 1, 2, 1, 2, 2]",18,12.31
+267,8.3,Cao,128,Cao,191,Thap,440,Cao,46,Thap,230,Cao,Suy than,302,4,6,"[2, 2, 0, 2, 0, 2, 2]",23,12.41
+346,4.5,Trung binh,63,Trung binh ,153,Trung binh,346,Trung binh,92,Trung binh,152,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,12.51
+79,2.3,Thap,56,Thap,203,Cao,145,Thap,167,Cao,36,Thap,Tieu duong,201,3,7,"[0, 0, 2, 0, 2, 0, 0]",23,1.01
+121,4.7,Trung binh,65,Trung binh,169,Trung binh,421,Cao,80,Trung binh,141,Trung binh,Gut,102,4,6,"[1, 1, 1, 2, 1, 1, 1]",20,1.11
+36,6.1,Trung binh,66,Trung binh,220,Cao,350,Trung binh,155,Cao,143,Trung binh,Tieu duong,200,0,10,"[1, 1, 2, 1, 2, 1, 0]",12,1.21
+172,1.6,Thap,22,Thap,31,Thap,443,Cao,116,Trung binh,31,Thap,Gut,102,5,5,"[0, 0, 0 ,2, 1, 0, 1]",12,1.31
+213,8.9,Cao,135,Cao,170,Trung binh,449,Cao,56,Trung binh,208,Cao,Suy than,302,5,5,"[2, 2, 1, 2, 1, 2, 2]",19,1.41
+232,7.8,Cao,119,Cao,178,Trung binh,463,Cao,65,Trung binh,246,Cao,Suy than,303,1,9,"[2, 2, 1, 2, 1, 2, 2]",17,1.51
+196,1,Thap,53,Thap,35,Thap,449,Cao,46,Thap,22,Thap,Gut,102,2,8,"[0, 0, 0, 2, 0, 0, 1]",15,2.01
+241,8.7,Cao,125,Cao,104,Trung binh,462,Cao,57,Trung binh,231,Cao,Suy than,303,4,6,"[2, 2, 1, 2, 1, 2, 2]",18,2.11
+25,5,Trung binh,88,Trung binh,218,Cao,199,Trung binh,170,Cao,124,Trung binh,Tieu duong,201,1,9,"[1, 1, 2, 1, 2, 1, 0]",11,2.21
+46,7.1,Trung binh,83,Trung binh,257,Cao,324,Trung binh,185,Cao,155,Trung binh,Tieu duong,201,6,4,"[1, 1, 2, 1, 2, 1, 0]",25,2.31
+235,8.1,Cao,126,Cao,182,Trung binh,423,Cao,85,Trung binh,224,Cao,Suy than,303,6,4,"[2, 2, 1, 2, 1, 2, 2]",17,2.41
+343,4.2,Trung binh,77,Trung binh ,52,Trung binh,225,Trung binh,118,Trung binh,163,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,2.51
+243,8.9,Cao,110,Cao,119,Trung binh,466,Cao,83,Trung binh,217,Cao,Suy than,302,2,8,"[2, 2, 1, 2, 1, 2, 2]",18,3.01
+269,8.5,Cao,125,Cao,53,Thap,443,Cao,17,Thap,218,Cao,Suy than,301,1,9,"[2, 2, 0, 2, 0, 2, 2]",24,3.11
+110,3.6,Trung binh,84,Trung binh,119,Trung binh,439,Cao,105,Trung binh,139,Trung binh,Gut,103,3,7,"[1, 1, 1, 2, 1, 1, 1]",23,3.21
+199,1.3,Thap,22,Thap,46,Thap,474,Cao,24,Thap,42,Thap,Gut,102,7,3,"[0, 0, 0, 2, 0, 0, 1]",22,3.31
+59,1.8,Thap,47,Thap,269,Cao,134,Thap,139,Cao,36,Thap,Tieu duong,202,6,4,"[0, 0, 2, 0, 2, 0, 0]",21,3.41
+306,3.1,Trung binh,91,Trung binh ,100,Trung binh,264,Trung binh,107,Trung binh,130,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,3.51
+102,2.8,Trung binh,76,Trung binh,89,Trung binh,520,Cao,58,Trung binh,168,Trung binh,Gut,101,2,8,"[1, 1, 1, 2, 1, 1, 1]",15,4.01
+12,3.7,Trung binh,79,Trung binh,227,Cao,187,Trung binh,180,Cao,64,Trung binh,Tieu duong,200,3,7,"[1, 1, 2, 1, 2, 1, 0]",22,4.11
+21,4.6,Trung binh,75,Trung binh,210,Cao,221,Trung binh,141,Cao,167,Trung binh,Tieu duong,200,6,4,"[1, 1, 2, 1, 2, 1, 0]",25,4.21
+72,1.6,Thap,30,Thap,231,Cao,151,Thap,177,Cao,40,Thap,Tieu duong,200,0,10,"[0, 0, 2, 0, 2, 0, 0]",23,4.31
+98,1.2,Thap,36,Thap,266,Cao,153,Thap,178,Cao,48,Thap,Tieu duong,202,6,4,"[0, 0, 2, 0, 2, 0, 0]",15,4.41
+116,4.2,Trung binh,98,Trung binh,101,Trung binh,427,Cao,125,Trung binh,58,Trung binh,Gut,103,4,6,"[1, 1, 1, 2, 1, 1, 1]",18,4.51
+297,8.3,Cao,109,Cao,166,Thap,444,Cao,37,Thap,223,Cao,Suy than,302,5,5,"[2, 2, 0, 2, 0, 2, 2]",12,5.01
+114,4,Trung binh,62,Trung binh,118,Trung binh,490,Cao,134,Trung binh,103,Trung binh,Gut,101,6,4,"[1, 1, 1, 2, 1, 1, 1]",21,5.11
+87,1.6,Thap,31,Thap,290,Cao,151,Thap,181,Cao,29,Thap,Tieu duong,200,5,5,"[0, 0, 2, 0, 2, 0, 0]",21,5.21
+288,10.4,Cao,128,Cao,194,Thap,464,Cao,20,Thap,243,Cao,Suy than,302,4,6,"[2, 2, 0, 2, 0, 2, 2]",17,5.31
+186,1.5,Thap,22,Thap,28,Thap,470,Cao,47,Thap,44,Thap,Gut,101,7,3,"[0, 0, 0, 2, 0, 0, 1]",17,5.41
+189,1.8,Thap,28,Thap,22,Thap,449,Cao,45,Thap,34,Thap,Gut,101,5,5,"[0, 0, 0, 2, 0, 0, 1]",21,5.51
+16,4.1,Trung binh,82,Trung binh,279,Cao,241,Trung binh,167,Cao,191,Trung binh,Tieu duong,201,7,3,"[1, 1, 2, 1, 2, 1, 0]",24,6.01
+233,7.9,Cao,118,Cao,72,Trung binh,433,Cao,112,Trung binh,226,Cao,Suy than,301,1,9,"[2, 2, 1, 2, 1, 2, 2]",12,6.11
+5,3,Trung binh,67,Trung binh,236,Cao,205,Trung binh,161,Cao,67,Trung binh,Tieu duong,202,3,7,"[1, 1, 2, 1, 2, 1, 0]",17,6.21
+151,1,Thap,46,Thap,30,Thap,477,Cao,126,Trung binh,19,Thap,Gut,102,5,5,"[0, 0, 0 ,2, 1, 0, 1]",15,6.31
+296,8.2,Cao,143,Cao,50,Thap,439,Cao,31,Thap,227,Cao,Suy than,301,5,5,"[2, 2, 0, 2, 0, 2, 2]",24,6.41
+4,2.9,Trung binh,73,Trung binh,285,Cao,274,Trung binh,181,Cao,78,Trung binh,Tieu duong,201,3,7,"[1, 1, 2, 1, 2, 1, 0]",16,6.51
+42,6.7,Trung binh,102,Trung binh,208,Cao,298,Trung binh,183,Cao,165,Trung binh,Tieu duong,200,3,7,"[1, 1, 2, 1, 2, 1, 0]",18,7.01
+86,1.5,Thap,43,Thap,265,Cao,159,Thap,159,Cao,42,Thap,Tieu duong,202,6,4,"[0, 0, 2, 0, 2, 0, 0]",25,7.11
+139,6.5,Trung binh,97,Trung binh,75,Trung binh,425,Cao,71,Trung binh,61,Trung binh,Gut,102,2,8,"[1, 1, 1, 2, 1, 1, 1]",24,7.21
+26,5.1,Trung binh,89,Trung binh,210,Cao,329,Trung binh,153,Cao,99,Trung binh,Tieu duong,202,6,4,"[1, 1, 2, 1, 2, 1, 0]",14,7.31
+227,10.3,Cao,128,Cao,191,Trung binh,433,Cao,76,Trung binh,245,Cao,Suy than,301,0,10,"[2, 2, 1, 2, 1, 2, 2]",12,7.41
+187,1.6,Thap,38,Thap,37,Thap,432,Cao,21,Thap,39,Thap,Gut,102,3,7,"[0, 0, 0, 2, 0, 0, 1]",16,7.51
+310,3.5,Trung binh,99,Trung binh ,78,Trung binh,258,Trung binh,90,Trung binh,171,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,8.01
+302,2.7,Trung binh,65,Trung binh ,197,Trung binh,369,Trung binh,118,Trung binh,107,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,8.11
+146,7.2,Trung binh,73,Trung binh,57,Trung binh,442,Cao,122,Trung binh,155,Trung binh,Gut,103,7,3,"[1, 1, 1, 2, 1, 1, 1]",14,8.21
+81,1,Thap,41,Thap,246,Cao,157,Thap,183,Cao,44,Thap,Tieu duong,200,3,7,"[0, 0, 2, 0, 2, 0, 0]",25,8.31
+260,7.6,Cao,108,Cao,196,Thap,423,Cao,44,Thap,238,Cao,Suy than,301,4,6,"[2, 2, 0, 2, 0, 2, 2]",11,8.41
+307,3.2,Trung binh,72,Trung binh ,158,Trung binh,366,Trung binh,98,Trung binh,140,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,8.51
+238,8.4,Cao,109,Cao,92,Trung binh,463,Cao,75,Trung binh,248,Cao,Suy than,303,1,9,"[2, 2, 1, 2, 1, 2, 2]",23,9.01
+41,6.6,Trung binh,75,Trung binh,203,Cao,353,Trung binh,142,Cao,194,Trung binh,Tieu duong,202,7,3,"[1, 1, 2, 1, 2, 1, 0]",22,9.11
+77,2.1,Thap,51,Thap,219,Cao,178,Thap,181,Cao,41,Thap,Tieu duong,202,3,7,"[0, 0, 2, 0, 2, 0, 0]",20,9.21
+294,8,Cao,132,Cao,144,Thap,461,Cao,42,Thap,207,Cao,Suy than,302,0,10,"[2, 2, 0, 2, 0, 2, 2]",24,9.31
+323,4.8,Trung binh,101,Trung binh ,97,Trung binh,317,Trung binh,116,Trung binh,114,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,9.41
+338,3.7,Trung binh,64,Trung binh ,176,Trung binh,409,Trung binh,109,Trung binh,173,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,9.51
+105,3.1,Trung binh,60,Trung binh,93,Trung binh,474,Cao,98,Trung binh,80,Trung binh,Gut,101,3,7,"[1, 1, 1, 2, 1, 1, 1]",15,10.01
+165,2.4,Thap,33,Thap,45,Thap,480,Cao,131,Trung binh,47,Thap,Gut,101,6,4,"[0, 0, 0 ,2, 1, 0, 1]",19,10.11
+127,5.3,Trung binh,74,Trung binh,144,Trung binh,514,Cao,59,Trung binh,80,Trung binh,Gut,102,1,9,"[1, 1, 1, 2, 1, 1, 1]",20,10.21
+142,6.8,Trung binh,96,Trung binh,95,Trung binh,423,Cao,104,Trung binh,87,Trung binh,Gut,102,0,10,"[1, 1, 1, 2, 1, 1, 1]",16,10.31
+257,10.3,Cao,115,Cao,124,Thap,432,Cao,33,Thap,201,Cao,Suy than,301,0,10,"[2, 2, 0, 2, 0, 2, 2]",14,10.41
+328,2.7,Trung binh,89,Trung binh ,75,Trung binh,210,Trung binh,102,Trung binh,95,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,10.51
+271,8.7,Cao,140,Cao,57,Thap,457,Cao,27,Thap,249,Cao,Suy than,303,0,10,"[2, 2, 0, 2, 0, 2, 2]",20,11.01
+154,1.3,Thap,36,Thap,24,Thap,492,Cao,51,Trung binh,38,Thap,Gut,102,6,4,"[0, 0, 0 ,2, 1, 0, 1]",13,11.11
+273,8.9,Cao,139,Cao,31,Thap,453,Cao,48,Thap,241,Cao,Suy than,302,5,5,"[2, 2, 0, 2, 0, 2, 2]",16,11.21
+274,9,Cao,119,Cao,31,Thap,427,Cao,33,Thap,202,Cao,Suy than,303,3,7,"[2, 2, 0, 2, 0, 2, 2]",21,11.31
+291,7.7,Cao,132,Cao,103,Thap,450,Cao,20,Thap,239,Cao,Suy than,302,7,3,"[2, 2, 0, 2, 0, 2, 2]",18,11.41
+295,8.1,Cao,123,Cao,185,Thap,451,Cao,36,Thap,215,Cao,Suy than,303,0,10,"[2, 2, 0, 2, 0, 2, 2]",14,11.51
+39,6.4,Trung binh,64,Trung binh,208,Cao,295,Trung binh,162,Cao,124,Trung binh,Tieu duong,200,0,10,"[1, 1, 2, 1, 2, 1, 0]",12,12.01
+315,4,Trung binh,66,Trung binh ,162,Trung binh,377,Trung binh,117,Trung binh,194,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,12.11
+249,9.5,Cao,128,Cao,85,Thap,439,Cao,42,Thap,201,Cao,Suy than,302,7,3,"[2, 2, 0, 2, 0, 2, 2]",18,12.21
+191,2,Thap,35,Thap,36,Thap,489,Cao,20,Thap,38,Thap,Gut,103,2,8,"[0, 0, 0, 2, 0, 0, 1]",17,12.31
+113,3.9,Trung binh,100,Trung binh,103,Trung binh,471,Cao,66,Trung binh,119,Trung binh,Gut,103,2,8,"[1, 1, 1, 2, 1, 1, 1]",15,12.41
+88,1.7,Thap,44,Thap,240,Cao,169,Thap,185,Cao,21,Thap,Tieu duong,201,6,4,"[0, 0, 2, 0, 2, 0, 0]",12,12.51
+253,9.9,Cao,131,Cao,30,Thap,442,Cao,21,Thap,220,Cao,Suy than,303,3,7,"[2, 2, 0, 2, 0, 2, 2]",17,1.01
+134,6,Trung binh,68,Trung binh,51,Trung binh,444,Cao,73,Trung binh,145,Trung binh,Gut,103,7,3,"[1, 1, 1, 2, 1, 1, 1]",13,1.11
+153,1.2,Thap,33,Thap,35,Thap,490,Cao,90,Trung binh,12,Thap,Gut,101,4,6,"[0, 0, 0 ,2, 1, 0, 1]",20,1.21
+230,7.6,Cao,105,Cao,82,Trung binh,450,Cao,69,Trung binh,229,Cao,Suy than,301,1,9,"[2, 2, 1, 2, 1, 2, 2]",15,1.31
+124,5,Trung binh,80,Trung binh,158,Trung binh,460,Cao,120,Trung binh,122,Trung binh,Gut,102,3,7,"[1, 1, 1, 2, 1, 1, 1]",20,1.41
+254,10,Cao,136,Cao,148,Thap,449,Cao,18,Thap,230,Cao,Suy than,301,2,8,"[2, 2, 0, 2, 0, 2, 2]",16,1.51
+311,3.6,Trung binh,72,Trung binh ,103,Trung binh,408,Trung binh,80,Trung binh,50,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,2.01
+322,4.7,Trung binh,79,Trung binh ,179,Trung binh,212,Trung binh,113,Trung binh,181,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,2.11
+14,3.9,Trung binh,74,Trung binh,214,Cao,383,Trung binh,158,Cao,83,Trung binh,Tieu duong,202,6,4,"[1, 1, 2, 1, 2, 1, 0]",20,2.21
+37,6.2,Trung binh,97,Trung binh,230,Cao,379,Trung binh,158,Cao,83,Trung binh,Tieu duong,201,0,10,"[1, 1, 2, 1, 2, 1, 0]",18,2.31
+262,7.8,Cao,125,Cao,58,Thap,458,Cao,48,Thap,215,Cao,Suy than,303,4,6,"[2, 2, 0, 2, 0, 2, 2]",24,2.41
+190,1.9,Thap,23,Thap,23,Thap,502,Cao,19,Thap,31,Thap,Gut,102,2,8,"[0, 0, 0, 2, 0, 0, 1]",16,2.51
+184,1.3,Thap,31,Thap,40,Thap,474,Cao,24,Thap,28,Thap,Gut,102,4,6,"[0, 0, 0, 2, 0, 0, 1]",14,3.01
+55,1.4,Thap,37,Thap,251,Cao,153,Thap,178,Cao,23,Thap,Tieu duong,201,0,10,"[0, 0, 2, 0, 2, 0, 0]",17,3.11
+270,8.6,Cao,143,Cao,163,Thap,467,Cao,47,Thap,204,Cao,Suy than,302,2,8,"[2, 2, 0, 2, 0, 2, 2]",20,3.21
+248,9.4,Cao,106,Cao,60,Trung binh,442,Cao,132,Trung binh,247,Cao,Suy than,301,5,5,"[2, 2, 1, 2, 1, 2, 2]",21,3.31
+80,2.4,Thap,45,Thap,290,Cao,147,Thap,153,Cao,45,Thap,Tieu duong,202,3,7,"[0, 0, 2, 0, 2, 0, 0]",24,3.41
+120,4.6,Trung binh,74,Trung binh,159,Trung binh,504,Cao,61,Trung binh,194,Trung binh,Gut,101,5,5,"[1, 1, 1, 2, 1, 1, 1]",13,3.51
+334,3.3,Trung binh,77,Trung binh ,53,Trung binh,347,Trung binh,73,Trung binh,134,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,4.01
+327,2.6,Trung binh,61,Trung binh ,131,Trung binh,246,Trung binh,101,Trung binh,176,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,4.11
+141,6.7,Trung binh,74,Trung binh,109,Trung binh,424,Cao,65,Trung binh,107,Trung binh,Gut,101,4,6,"[1, 1, 1, 2, 1, 1, 1]",24,4.21
+104,3,Trung binh,99,Trung binh,119,Trung binh,500,Cao,136,Trung binh,129,Trung binh,Gut,103,2,8,"[1, 1, 1, 2, 1, 1, 1]",14,4.31
+3,2.8,Trung binh,98,Trung binh,244,Cao,265,Trung binh,161,Cao,144,Trung binh,Tieu duong,200,4,6,"[1, 1, 2, 1, 2, 1, 0]",14,4.41
+284,10,Cao,138,Cao,168,Thap,454,Cao,26,Thap,231,Cao,Suy than,301,1,9,"[2, 2, 0, 2, 0, 2, 2]",19,4.51
+2,2.7,Trung binh,70,Trung binh,250,Cao,218,Trung binh,139,Cao,58,Trung binh,Tieu duong,202,7,3,"[1, 1, 2, 1, 2, 1, 0]",21,5.01
+321,4.6,Trung binh,96,Trung binh ,115,Trung binh,348,Trung binh,58,Trung binh,169,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,5.11
+94,2.3,Thap,52,Thap,272,Cao,133,Thap,168,Cao,45,Thap,Tieu duong,201,7,3,"[0, 0, 2, 0, 2, 0, 0]",23,5.21
+207,8.3,Cao,141,Cao,71,Trung binh,469,Cao,94,Trung binh,201,Cao,Suy than,302,4,6,"[2, 2, 1, 2, 1, 2, 2]",24,5.31
+82,1.1,Thap,44,Thap,214,Cao,158,Thap,174,Cao,44,Thap,Tieu duong,201,7,3,"[0, 0, 2, 0, 2, 0, 0]",12,5.41
+318,4.3,Trung binh,101,Trung binh ,189,Trung binh,357,Trung binh,108,Trung binh,79,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,5.51
+125,5.1,Trung binh,68,Trung binh,194,Trung binh,499,Cao,111,Trung binh,185,Trung binh,Gut,103,4,6,"[1, 1, 1, 2, 1, 1, 1]",11,6.01
+65,2.4,Thap,55,Thap,261,Cao,136,Thap,185,Cao,20,Thap,Tieu duong,202,1,9,"[0, 0, 2, 0, 2, 0, 0]",25,6.11
+195,2.4,Thap,51,Thap,31,Thap,448,Cao,34,Thap,31,Thap,Gut,101,2,8,"[0, 0, 0, 2, 0, 0, 1]",25,6.21
+9,3.4,Trung binh,89,Trung binh,212,Cao,253,Trung binh,185,Cao,69,Trung binh,Tieu duong,200,7,3,"[1, 1, 2, 1, 2, 1, 0]",22,6.31
+45,7,Trung binh,101,Trung binh,281,Cao,220,Trung binh,184,Cao,152,Trung binh,Tieu duong,200,4,6,"[1, 1, 2, 1, 2, 1, 0]",12,6.41
+308,3.3,Trung binh,70,Trung binh ,87,Trung binh,191,Trung binh,119,Trung binh,144,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,6.51
+192,2.1,Thap,39,Thap,38,Thap,504,Cao,44,Thap,29,Thap,Gut,101,1,9,"[0, 0, 0, 2, 0, 0, 1]",22,7.01
+103,2.9,Trung binh,86,Trung binh,50,Trung binh,484,Cao,58,Trung binh,85,Trung binh,Gut,102,4,6,"[1, 1, 1, 2, 1, 1, 1]",11,7.11
+100,2.6,Trung binh,77,Trung binh,113,Trung binh,425,Cao,122,Trung binh,120,Trung binh,Gut,102,2,8,"[1, 1, 1, 2, 1, 1, 1]",21,7.21
+138,6.4,Trung binh,99,Trung binh,190,Trung binh,473,Cao,50,Trung binh,180,Trung binh,Gut,101,0,10,"[1, 1, 1, 2, 1, 1, 1]",15,7.31
+312,3.7,Trung binh,68,Trung binh ,81,Trung binh,228,Trung binh,75,Trung binh,150,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,7.41
+90,1.9,Thap,34,Thap,240,Cao,177,Thap,138,Cao,20,Thap,Tieu duong,200,1,9,"[0, 0, 2, 0, 2, 0, 0]",13,7.51
+265,8.1,Cao,106,Cao,175,Thap,430,Cao,38,Thap,247,Cao,Suy than,303,1,9,"[2, 2, 0, 2, 0, 2, 2]",14,8.01
+122,4.8,Trung binh,100,Trung binh,107,Trung binh,498,Cao,75,Trung binh,166,Trung binh,Gut,103,2,8,"[1, 1, 1, 2, 1, 1, 1]",22,8.11
+71,1.5,Thap,39,Thap,226,Cao,154,Thap,181,Cao,27,Thap,Tieu duong,202,5,5,"[0, 0, 2, 0, 2, 0, 0]",25,8.21
+180,2.4,Thap,41,Thap,32,Thap,482,Cao,42,Thap,24,Thap,Gut,101,2,8,"[0, 0, 0, 2, 0, 0, 1]",22,8.31
+200,7.6,Cao,135,Cao,172,Trung binh,428,Cao,89,Trung binh,248,Cao,Suy than,301,3,7,"[2, 2, 1, 2, 1, 2, 2]",22,8.41
+309,3.4,Trung binh,88,Trung binh ,108,Trung binh,255,Trung binh,114,Trung binh,195,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,8.51
+135,6.1,Trung binh,94,Trung binh,125,Trung binh,480,Cao,114,Trung binh,90,Trung binh,Gut,101,5,5,"[1, 1, 1, 2, 1, 1, 1]",17,9.01
+157,1.6,Thap,54,Thap,47,Thap,493,Cao,106,Trung binh,38,Thap,Gut,102,2,8,"[0, 0, 0 ,2, 1, 0, 1]",17,9.11
+340,3.9,Trung binh,102,Trung binh ,71,Trung binh,395,Trung binh,51,Trung binh,155,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,9.21
+15,4,Trung binh,104,Trung binh,265,Cao,259,Trung binh,170,Cao,60,Trung binh,Tieu duong,200,2,8,"[1, 1, 2, 1, 2, 1, 0]",22,9.31
+20,4.5,Trung binh,94,Trung binh,246,Cao,377,Trung binh,162,Cao,151,Trung binh,Tieu duong,202,3,7,"[1, 1, 2, 1, 2, 1, 0]",25,9.41
+30,5.5,Trung binh,101,Trung binh,252,Cao,240,Trung binh,153,Cao,156,Trung binh,Tieu duong,200,1,9,"[1, 1, 2, 1, 2, 1, 0]",13,9.51
+268,8.4,Cao,141,Cao,82,Thap,461,Cao,18,Thap,248,Cao,Suy than,303,0,10,"[2, 2, 0, 2, 0, 2, 2]",21,10.01
+22,4.7,Trung binh,93,Trung binh,255,Cao,317,Trung binh,150,Cao,54,Trung binh,Tieu duong,201,3,7,"[1, 1, 2, 1, 2, 1, 0]",21,10.11
+246,9.2,Cao,115,Cao,148,Trung binh,435,Cao,114,Trung binh,219,Cao,Suy than,302,2,8,"[2, 2, 1, 2, 1, 2, 2]",24,10.21
+320,4.5,Trung binh,102,Trung binh ,99,Trung binh,259,Trung binh,105,Trung binh,183,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,10.31
+206,8.2,Cao,129,Cao,86,Trung binh,445,Cao,81,Trung binh,205,Cao,Suy than,301,7,3,"[2, 2, 1, 2, 1, 2, 2]",13,10.41
+166,1,Thap,49,Thap,20,Thap,427,Cao,101,Trung binh,17,Thap,Gut,102,0,10,"[0, 0, 0 ,2, 1, 0, 1]",19,10.51
+225,10.1,Cao,136,Cao,143,Trung binh,455,Cao,116,Trung binh,249,Cao,Suy than,302,2,8,"[2, 2, 1, 2, 1, 2, 2]",23,11.01
+304,2.9,Trung binh,89,Trung binh ,147,Trung binh,192,Trung binh,119,Trung binh,62,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,11.11
+293,7.9,Cao,105,Cao,73,Thap,430,Cao,38,Thap,204,Cao,Suy than,301,1,9,"[2, 2, 0, 2, 0, 2, 2]",13,11.21
+29,5.4,Trung binh,79,Trung binh,246,Cao,323,Trung binh,151,Cao,147,Trung binh,Tieu duong,202,1,9,"[1, 1, 2, 1, 2, 1, 0]",22,11.31
+107,3.3,Trung binh,78,Trung binh,96,Trung binh,457,Cao,115,Trung binh,184,Trung binh,Gut,103,3,7,"[1, 1, 1, 2, 1, 1, 1]",21,11.41
+198,1.2,Thap,52,Thap,37,Thap,421,Cao,21,Thap,38,Thap,Gut,101,0,10,"[0, 0, 0, 2, 0, 0, 1]",22,11.51
+18,4.3,Trung binh,69,Trung binh,244,Cao,380,Trung binh,154,Cao,172,Trung binh,Tieu duong,200,6,4,"[1, 1, 2, 1, 2, 1, 0]",14,12.01
+169,1.3,Thap,24,Thap,28,Thap,421,Cao,66,Trung binh,35,Thap,Gut,102,5,5,"[0, 0, 0 ,2, 1, 0, 1]",14,12.11
+221,9.7,Cao,109,Cao,65,Trung binh,443,Cao,117,Trung binh,227,Cao,Suy than,301,7,3,"[2, 2, 1, 2, 1, 2, 2]",18,12.21
+40,6.5,Trung binh,100,Trung binh,235,Cao,291,Trung binh,175,Cao,94,Trung binh,Tieu duong,201,4,6,"[1, 1, 2, 1, 2, 1, 0]",17,12.31
+299,8.5,Cao,144,Cao,99,Thap,440,Cao,43,Thap,227,Cao,Suy than,301,2,8,"[2, 2, 0, 2, 0, 2, 2]",16,12.41
+147,7.3,Trung binh,70,Trung binh,111,Trung binh,460,Cao,95,Trung binh,84,Trung binh,Gut,101,7,3,"[1, 1, 1, 2, 1, 1, 1]",25,12.51
+97,1.1,Thap,57,Thap,205,Cao,145,Thap,145,Cao,27,Thap,Tieu duong,201,5,5,"[0, 0, 2, 0, 2, 0, 0]",13,1.01
+150,2.5,Trung binh,74,Trung binh,85,Trung binh,458,Cao,79,Trung binh,140,Trung binh,Gut,101,7,3,"[1, 1, 1, 2, 1, 1, 1]",14,1.11
+290,7.6,Cao,138,Cao,121,Thap,429,Cao,40,Thap,206,Cao,Suy than,301,5,5,"[2, 2, 0, 2, 0, 2, 2]",21,1.21
+167,1.1,Thap,36,Thap,27,Thap,434,Cao,131,Trung binh,17,Thap,Gut,103,7,3,"[0, 0, 0 ,2, 1, 0, 1]",24,1.31
+283,9.9,Cao,114,Cao,160,Thap,435,Cao,47,Thap,249,Cao,Suy than,303,7,3,"[2, 2, 0, 2, 0, 2, 2]",18,1.41
+209,8.5,Cao,105,Cao,52,Trung binh,465,Cao,106,Trung binh,238,Cao,Suy than,301,6,4,"[2, 2, 1, 2, 1, 2, 2]",24,1.51
+133,5.9,Trung binh,84,Trung binh,100,Trung binh,480,Cao,128,Trung binh,161,Trung binh,Gut,102,2,8,"[1, 1, 1, 2, 1, 1, 1]",20,2.01
+99,2.5,Trung binh,86,Trung binh,185,Trung binh,519,Cao,104,Trung binh,155,Trung binh,Gut,101,0,10,"[1, 1, 1, 2, 1, 1, 1]",21,2.11
+158,1.7,Thap,25,Thap,34,Thap,512,Cao,103,Trung binh,35,Thap,Gut,103,2,8,"[0, 0, 0 ,2, 1, 0, 1]",24,2.21
+24,4.9,Trung binh,97,Trung binh,236,Cao,182,Trung binh,139,Cao,128,Trung binh,Tieu duong,200,4,6,"[1, 1, 2, 1, 2, 1, 0]",19,2.31
+84,1.3,Thap,43,Thap,237,Cao,160,Thap,160,Cao,37,Thap,Tieu duong,200,6,4,"[0, 0, 2, 0, 2, 0, 0]",14,2.41
+231,7.7,Cao,120,Cao,73,Trung binh,462,Cao,116,Trung binh,209,Cao,Suy than,302,4,6,"[2, 2, 1, 2, 1, 2, 2]",23,2.51
+78,2.2,Thap,57,Thap,256,Cao,160,Thap,156,Cao,33,Thap,Tieu duong,200,7,3,"[0, 0, 2, 0, 2, 0, 0]",11,3.01
+317,4.2,Trung binh,67,Trung binh ,134,Trung binh,330,Trung binh,117,Trung binh,115,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,3.11
+201,7.7,Cao,120,Cao,87,Trung binh,426,Cao,100,Trung binh,202,Cao,Suy than,302,2,8,"[2, 2, 1, 2, 1, 2, 2]",17,3.21
+132,5.8,Trung binh,95,Trung binh,194,Trung binh,518,Cao,52,Trung binh,143,Trung binh,Gut,101,1,9,"[1, 1, 1, 2, 1, 1, 1]",21,3.31
+280,9.6,Cao,124,Cao,178,Thap,461,Cao,37,Thap,221,Cao,Suy than,303,4,6,"[2, 2, 0, 2, 0, 2, 2]",17,3.41
+156,1.5,Thap,46,Thap,36,Thap,511,Cao,98,Trung binh,48,Thap,Gut,101,5,5,"[0, 0, 0 ,2, 1, 0, 1]",18,3.51
+255,10.1,Cao,130,Cao,128,Thap,466,Cao,26,Thap,235,Cao,Suy than,302,5,5,"[2, 2, 0, 2, 0, 2, 2]",25,4.01
+183,1.2,Thap,30,Thap,27,Thap,476,Cao,20,Thap,46,Thap,Gut,101,3,7,"[0, 0, 0, 2, 0, 0, 1]",18,4.11
+335,3.4,Trung binh,63,Trung binh ,193,Trung binh,272,Trung binh,60,Trung binh,199,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,4.21
+203,7.9,Cao,133,Cao,72,Trung binh,443,Cao,74,Trung binh,215,Cao,Suy than,301,1,9,"[2, 2, 1, 2, 1, 2, 2]",23,4.31
+223,9.9,Cao,131,Cao,119,Trung binh,422,Cao,125,Trung binh,249,Cao,Suy than,303,2,8,"[2, 2, 1, 2, 1, 2, 2]",12,4.41
+314,3.9,Trung binh,95,Trung binh ,153,Trung binh,419,Trung binh,86,Trung binh,76,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,4.51
+23,4.8,Trung binh,66,Trung binh,271,Cao,306,Trung binh,169,Cao,117,Trung binh,Tieu duong,202,0,10,"[1, 1, 2, 1, 2, 1, 0]",12,5.01
+11,3.6,Trung binh,68,Trung binh,244,Cao,398,Trung binh,175,Cao,189,Trung binh,Tieu duong,202,6,4,"[1, 1, 2, 1, 2, 1, 0]",13,5.11
+50,1.9,Thap,58,Thap,242,Cao,139,Thap,172,Cao,30,Thap,Tieu duong,202,1,9,"[0, 0, 2, 0, 2, 0, 0]",24,5.21
+349,4.8,Trung binh,96,Trung binh ,125,Trung binh,211,Trung binh,85,Trung binh,110,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,5.31
+8,3.3,Trung binh,99,Trung binh,211,Cao,346,Trung binh,153,Cao,66,Trung binh,Tieu duong,202,5,5,"[1, 1, 2, 1, 2, 1, 0]",24,5.41
+164,2.3,Thap,27,Thap,31,Thap,433,Cao,104,Trung binh,22,Thap,Gut,103,1,9,"[0, 0, 0 ,2, 1, 0, 1]",21,5.51
+6,3.1,Trung binh,79,Trung binh,240,Cao,244,Trung binh,167,Cao,176,Trung binh,Tieu duong,200,1,9,"[1, 1, 2, 1, 2, 1, 0]",16,6.01
+250,9.6,Cao,124,Cao,34,Thap,436,Cao,31,Thap,218,Cao,Suy than,303,6,4,"[2, 2, 0, 2, 0, 2, 2]",12,6.11
+332,3.1,Trung binh,66,Trung binh ,172,Trung binh,410,Trung binh,93,Trung binh,161,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,6.21
+258,10.4,Cao,108,Cao,106,Thap,427,Cao,37,Thap,217,Cao,Suy than,302,0,10,"[2, 2, 0, 2, 0, 2, 2]",12,6.31
+244,9,Cao,124,Cao,98,Trung binh,448,Cao,75,Trung binh,237,Cao,Suy than,303,5,5,"[2, 2, 1, 2, 1, 2, 2]",17,6.41
+261,7.7,Cao,116,Cao,143,Thap,441,Cao,15,Thap,238,Cao,Suy than,302,2,8,"[2, 2, 0, 2, 0, 2, 2]",16,6.51
+224,10,Cao,124,Cao,111,Trung binh,429,Cao,88,Trung binh,246,Cao,Suy than,301,3,7,"[2, 2, 1, 2, 1, 2, 2]",12,7.01
+131,5.7,Trung binh,61,Trung binh,192,Trung binh,472,Cao,68,Trung binh,170,Trung binh,Gut,103,2,8,"[1, 1, 1, 2, 1, 1, 1]",17,7.11
+214,9,Cao,116,Cao,50,Trung binh,424,Cao,84,Trung binh,226,Cao,Suy than,303,2,8,"[2, 2, 1, 2, 1, 2, 2]",18,7.21
+123,4.9,Trung binh,64,Trung binh,137,Trung binh,426,Cao,88,Trung binh,87,Trung binh,Gut,101,7,3,"[1, 1, 1, 2, 1, 1, 1]",15,7.31
+300,2.5,Trung binh,82,Trung binh ,143,Trung binh,187,Trung binh,120,Trung binh,82,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,7.41
+140,6.6,Trung binh,62,Trung binh,148,Trung binh,444,Cao,137,Trung binh,67,Trung binh,Gut,103,7,3,"[1, 1, 1, 2, 1, 1, 1]",16,7.51
+27,5.2,Trung binh,80,Trung binh,232,Cao,263,Trung binh,172,Cao,98,Trung binh,Tieu duong,200,1,9,"[1, 1, 2, 1, 2, 1, 0]",15,8.01
+13,3.8,Trung binh,100,Trung binh,207,Cao,336,Trung binh,140,Cao,168,Trung binh,Tieu duong,201,5,5,"[1, 1, 2, 1, 2, 1, 0]",14,8.11
+168,1.2,Thap,49,Thap,27,Thap,487,Cao,61,Trung binh,36,Thap,Gut,101,6,4,"[0, 0, 0 ,2, 1, 0, 1]",24,8.21
+155,1.4,Thap,34,Thap,26,Thap,491,Cao,50,Trung binh,32,Thap,Gut,103,1,9,"[0, 0, 0 ,2, 1, 0, 1]",13,8.31
+57,1.6,Thap,48,Thap,242,Cao,174,Thap,155,Cao,25,Thap,Tieu duong,200,1,9,"[0, 0, 2, 0, 2, 0, 0]",20,8.41
+68,1.2,Thap,57,Thap,258,Cao,139,Thap,157,Cao,30,Thap,Tieu duong,202,2,8,"[0, 0, 2, 0, 2, 0, 0]",17,8.51
+211,8.7,Cao,115,Cao,81,Trung binh,431,Cao,54,Trung binh,244,Cao,Suy than,303,6,4,"[2, 2, 1, 2, 1, 2, 2]",14,9.01
+178,2.2,Thap,53,Thap,24,Thap,481,Cao,32,Thap,26,Thap,Gut,102,3,7,"[0, 0, 0, 2, 0, 0, 1]",24,9.11
+162,2.1,Thap,35,Thap,35,Thap,509,Cao,123,Trung binh,29,Thap,Gut,101,2,8,"[0, 0, 0 ,2, 1, 0, 1]",23,9.21
+66,1,Thap,35,Thap,232,Cao,133,Thap,188,Cao,28,Thap,Tieu duong,200,5,5,"[0, 0, 2, 0, 2, 0, 0]",18,9.31
+91,2,Thap,31,Thap,246,Cao,136,Thap,180,Cao,29,Thap,Tieu duong,201,7,3,"[0, 0, 2, 0, 2, 0, 0]",20,9.41
+10,3.5,Trung binh,85,Trung binh,282,Cao,404,Trung binh,174,Cao,160,Trung binh,Tieu duong,201,4,6,"[1, 1, 2, 1, 2, 1, 0]",17,9.51
+58,1.7,Thap,50,Thap,269,Cao,164,Thap,149,Cao,26,Thap,Tieu duong,201,5,5,"[0, 0, 2, 0, 2, 0, 0]",23,10.01
+47,7.2,Trung binh,69,Trung binh,288,Cao,236,Trung binh,144,Cao,161,Trung binh,Tieu duong,202,7,3,"[1, 1, 2, 1, 2, 1, 0]",16,10.11
+285,10.1,Cao,119,Cao,26,Thap,433,Cao,40,Thap,244,Cao,Suy than,302,2,8,"[2, 2, 0, 2, 0, 2, 2]",18,10.21
+43,6.8,Trung binh,90,Trung binh,235,Cao,268,Trung binh,170,Cao,81,Trung binh,Tieu duong,201,6,4,"[1, 1, 2, 1, 2, 1, 0]",16,10.31
+272,8.8,Cao,125,Cao,29,Thap,432,Cao,39,Thap,233,Cao,Suy than,301,7,3,"[2, 2, 0, 2, 0, 2, 2]",25,10.41
+96,1,Thap,58,Thap,287,Cao,163,Thap,180,Cao,47,Thap,Tieu duong,200,4,6,"[0, 0, 2, 0, 2, 0, 0]",24,10.51
+333,3.2,Trung binh,96,Trung binh ,190,Trung binh,383,Trung binh,51,Trung binh,170,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,11.01
+69,1.3,Thap,41,Thap,219,Cao,174,Thap,147,Cao,38,Thap,Tieu duong,200,7,3,"[0, 0, 2, 0, 2, 0, 0]",20,11.11
+330,2.9,Trung binh,71,Trung binh ,74,Trung binh,397,Trung binh,69,Trung binh,90,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,11.21
+48,7.3,Trung binh,93,Trung binh,230,Cao,247,Trung binh,156,Cao,105,Trung binh,Tieu duong,200,0,10,"[1, 1, 2, 1, 2, 1, 0]",18,11.31
+237,8.3,Cao,139,Cao,190,Trung binh,442,Cao,61,Trung binh,244,Cao,Suy than,302,0,10,"[2, 2, 1, 2, 1, 2, 2]",17,11.41
+53,1.2,Thap,57,Thap,210,Cao,149,Thap,178,Cao,37,Thap,Tieu duong,202,1,9,"[0, 0, 2, 0, 2, 0, 0]",23,11.51
+325,5,Trung binh,67,Trung binh ,176,Trung binh,388,Trung binh,54,Trung binh,186,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,12.01
+159,1.8,Thap,35,Thap,26,Thap,438,Cao,125,Trung binh,26,Thap,Gut,101,5,5,"[0, 0, 0 ,2, 1, 0, 1]",12,12.11
+337,3.6,Trung binh,71,Trung binh ,168,Trung binh,304,Trung binh,93,Trung binh,137,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,12.21
+313,3.8,Trung binh,87,Trung binh ,104,Trung binh,363,Trung binh,107,Trung binh,124,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,12.31
+236,8.2,Cao,130,Cao,169,Trung binh,429,Cao,111,Trung binh,220,Cao,Suy than,301,0,10,"[2, 2, 1, 2, 1, 2, 2]",16,12.41
+129,5.5,Trung binh,86,Trung binh,156,Trung binh,461,Cao,71,Trung binh,163,Trung binh,Gut,101,4,6,"[1, 1, 1, 2, 1, 1, 1]",11,12.51
+52,1.1,Thap,47,Thap,252,Cao,166,Thap,163,Cao,32,Thap,Tieu duong,201,0,10,"[0, 0, 2, 0, 2, 0, 0]",18,1.01
+347,4.6,Trung binh,94,Trung binh ,78,Trung binh,356,Trung binh,134,Trung binh,148,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,1.11
+286,10.2,Cao,107,Cao,60,Thap,463,Cao,28,Thap,244,Cao,Suy than,303,1,9,"[2, 2, 0, 2, 0, 2, 2]",18,1.21
+35,6,Trung binh,74,Trung binh,228,Cao,300,Trung binh,178,Cao,138,Trung binh,Tieu duong,202,1,9,"[1, 1, 2, 1, 2, 1, 0]",24,1.31
+208,8.4,Cao,145,Cao,101,Trung binh,438,Cao,61,Trung binh,240,Cao,Suy than,303,7,3,"[2, 2, 1, 2, 1, 2, 2]",12,1.41
+228,10.4,Cao,131,Cao,121,Trung binh,421,Cao,134,Trung binh,223,Cao,Suy than,302,6,4,"[2, 2, 1, 2, 1, 2, 2]",12,1.51
+217,9.3,Cao,110,Cao,145,Trung binh,463,Cao,71,Trung binh,207,Cao,Suy than,303,6,4,"[2, 2, 1, 2, 1, 2, 2]",16,2.01
+54,1.3,Thap,41,Thap,256,Cao,133,Thap,179,Cao,45,Thap,Tieu duong,200,3,7,"[0, 0, 2, 0, 2, 0, 0]",14,2.11
+222,9.8,Cao,108,Cao,106,Trung binh,458,Cao,55,Trung binh,204,Cao,Suy than,302,4,6,"[2, 2, 1, 2, 1, 2, 2]",21,2.21
+279,9.5,Cao,139,Cao,167,Thap,426,Cao,15,Thap,229,Cao,Suy than,302,5,5,"[2, 2, 0, 2, 0, 2, 2]",18,2.31
+136,6.2,Trung binh,65,Trung binh,64,Trung binh,473,Cao,56,Trung binh,191,Trung binh,Gut,102,2,8,"[1, 1, 1, 2, 1, 1, 1]",25,2.41
+281,9.7,Cao,130,Cao,44,Thap,454,Cao,44,Thap,224,Cao,Suy than,301,6,4,"[2, 2, 0, 2, 0, 2, 2]",16,2.51
+34,5.9,Trung binh,60,Trung binh,264,Cao,384,Trung binh,173,Cao,170,Trung binh,Tieu duong,201,0,10,"[1, 1, 2, 1, 2, 1, 0]",23,3.01
+108,3.4,Trung binh,84,Trung binh,92,Trung binh,469,Cao,53,Trung binh,112,Trung binh,Gut,101,7,3,"[1, 1, 1, 2, 1, 1, 1]",17,3.11
+101,2.7,Trung binh,71,Trung binh,57,Trung binh,459,Cao,134,Trung binh,157,Trung binh,Gut,103,7,3,"[1, 1, 1, 2, 1, 1, 1]",25,3.21
+194,2.3,Thap,32,Thap,28,Thap,483,Cao,46,Thap,20,Thap,Gut,103,5,5,"[0, 0, 0, 2, 0, 0, 1]",11,3.31
+75,1.9,Thap,36,Thap,276,Cao,141,Thap,153,Cao,33,Thap,Tieu duong,200,2,8,"[0, 0, 2, 0, 2, 0, 0]",18,3.41
+240,8.6,Cao,127,Cao,57,Trung binh,445,Cao,67,Trung binh,235,Cao,Suy than,302,0,10,"[2, 2, 1, 2, 1, 2, 2]",11,3.51
+49,1.4,Thap,30,Thap,226,Cao,179,Thap,153,Cao,45,Thap,Tieu duong,201,2,8,"[0, 0, 2, 0, 2, 0, 0]",11,4.01
+234,8,Cao,135,Cao,108,Trung binh,427,Cao,130,Trung binh,234,Cao,Suy than,302,7,3,"[2, 2, 1, 2, 1, 2, 2]",12,4.11
+326,2.5,Trung binh,96,Trung binh ,138,Trung binh,264,Trung binh,80,Trung binh,143,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,4.21
+252,9.8,Cao,132,Cao,16,Thap,461,Cao,33,Thap,213,Cao,Suy than,302,4,6,"[2, 2, 0, 2, 0, 2, 2]",24,4.31
+176,2,Thap,57,Thap,23,Thap,479,Cao,33,Thap,30,Thap,Gut,103,0,10,"[0, 0, 0, 2, 0, 0, 1]",18,4.41
+31,5.6,Trung binh,93,Trung binh,257,Cao,351,Trung binh,145,Cao,196,Trung binh,Tieu duong,201,6,4,"[1, 1, 2, 1, 2, 1, 0]",12,4.51
+179,2.3,Thap,50,Thap,18,Thap,487,Cao,47,Thap,39,Thap,Gut,103,2,8,"[0, 0, 0, 2, 0, 0, 1]",12,5.01
+266,8.2,Cao,120,Cao,58,Thap,436,Cao,27,Thap,238,Cao,Suy than,301,5,5,"[2, 2, 0, 2, 0, 2, 2]",25,5.11
+239,8.5,Cao,139,Cao,135,Trung binh,468,Cao,122,Trung binh,202,Cao,Suy than,301,4,6,"[2, 2, 1, 2, 1, 2, 2]",16,5.21
+181,1,Thap,23,Thap,43,Thap,480,Cao,42,Thap,18,Thap,Gut,102,4,6,"[0, 0, 0, 2, 0, 0, 1]",17,5.31
+182,1.1,Thap,34,Thap,28,Thap,493,Cao,37,Thap,38,Thap,Gut,103,3,7,"[0, 0, 0, 2, 0, 0, 1]",22,5.41
+174,1.8,Thap,32,Thap,18,Thap,483,Cao,40,Thap,29,Thap,Gut,101,6,4,"[0, 0, 0, 2, 0, 0, 1]",17,5.51
+60,1.9,Thap,34,Thap,217,Cao,161,Thap,147,Cao,47,Thap,Tieu duong,200,6,4,"[0, 0, 2, 0, 2, 0, 0]",21,6.01
+341,4,Trung binh,75,Trung binh ,171,Trung binh,409,Trung binh,85,Trung binh,110,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,6.11
+216,9.2,Cao,129,Cao,133,Trung binh,437,Cao,86,Trung binh,235,Cao,Suy than,302,4,6,"[2, 2, 1, 2, 1, 2, 2]",21,6.21
+226,10.2,Cao,110,Cao,126,Trung binh,458,Cao,108,Trung binh,246,Cao,Suy than,303,6,4,"[2, 2, 1, 2, 1, 2, 2]",25,6.31
+171,1.5,Thap,38,Thap,23,Thap,483,Cao,72,Trung binh,32,Thap,Gut,101,6,4,"[0, 0, 0 ,2, 1, 0, 1]",17,6.41
+177,2.1,Thap,39,Thap,46,Thap,496,Cao,24,Thap,40,Thap,Gut,101,7,3,"[0, 0, 0, 2, 0, 0, 1]",14,6.51
+56,1.5,Thap,31,Thap,255,Cao,135,Thap,185,Cao,36,Thap,Tieu duong,202,0,10,"[0, 0, 2, 0, 2, 0, 0]",20,7.01
+0,2.5,Trung binh,97,Trung binh,244,Cao,398,Trung binh,143,Cao,68,Trung binh,Tieu duong,200,5,5,"[1, 1, 2, 1, 2, 1, 0]",21,7.11
+170,1.4,Thap,34,Thap,17,Thap,444,Cao,59,Trung binh,44,Thap,Gut,103,0,10,"[0, 0, 0 ,2, 1, 0, 1]",23,7.21
+111,3.7,Trung binh,88,Trung binh,186,Trung binh,464,Cao,113,Trung binh,59,Trung binh,Gut,101,5,5,"[1, 1, 1, 2, 1, 1, 1]",23,7.31
+112,3.8,Trung binh,104,Trung binh,50,Trung binh,519,Cao,108,Trung binh,124,Trung binh,Gut,102,4,6,"[1, 1, 1, 2, 1, 1, 1]",22,7.41
+61,2,Thap,48,Thap,289,Cao,136,Thap,176,Cao,35,Thap,Tieu duong,201,7,3,"[0, 0, 2, 0, 2, 0, 0]",21,7.51
+342,4.1,Trung binh,94,Trung binh ,124,Trung binh,223,Trung binh,98,Trung binh,135,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,8.01
+188,1.7,Thap,56,Thap,42,Thap,490,Cao,27,Thap,29,Thap,Gut,103,6,4,"[0, 0, 0, 2, 0, 0, 1]",21,8.11
+289,10.5,Cao,138,Cao,179,Thap,423,Cao,44,Thap,223,Cao,Suy than,303,5,5,"[2, 2, 0, 2, 0, 2, 2]",19,8.21
+83,1.2,Thap,34,Thap,248,Cao,174,Thap,189,Cao,35,Thap,Tieu duong,202,5,5,"[0, 0, 2, 0, 2, 0, 0]",21,8.31
+67,1.1,Thap,53,Thap,275,Cao,171,Thap,186,Cao,33,Thap,Tieu duong,201,5,5,"[0, 0, 2, 0, 2, 0, 0]",24,8.41
+115,4.1,Trung binh,70,Trung binh,50,Trung binh,473,Cao,73,Trung binh,142,Trung binh,Gut,102,3,7,"[1, 1, 1, 2, 1, 1, 1]",11,8.51
+73,1.7,Thap,33,Thap,222,Cao,130,Thap,167,Cao,24,Thap,Tieu duong,201,0,10,"[0, 0, 2, 0, 2, 0, 0]",16,9.01
+126,5.2,Trung binh,98,Trung binh,105,Trung binh,517,Cao,123,Trung binh,75,Trung binh,Gut,101,5,5,"[1, 1, 1, 2, 1, 1, 1]",13,9.11
+287,10.3,Cao,109,Cao,119,Thap,469,Cao,47,Thap,210,Cao,Suy than,301,3,7,"[2, 2, 0, 2, 0, 2, 2]",11,9.21
+220,9.6,Cao,125,Cao,123,Trung binh,422,Cao,121,Trung binh,241,Cao,Suy than,303,0,10,"[2, 2, 1, 2, 1, 2, 2]",11,9.31
+95,2.4,Thap,55,Thap,250,Cao,148,Thap,166,Cao,28,Thap,Tieu duong,202,6,4,"[0, 0, 2, 0, 2, 0, 0]",14,9.41
+210,8.6,Cao,110,Cao,106,Trung binh,455,Cao,110,Trung binh,234,Cao,Suy than,302,7,3,"[2, 2, 1, 2, 1, 2, 2]",11,9.51
+247,9.3,Cao,110,Cao,139,Trung binh,460,Cao,121,Trung binh,211,Cao,Suy than,303,5,5,"[2, 2, 1, 2, 1, 2, 2]",19,10.01
+348,4.7,Trung binh,96,Trung binh ,157,Trung binh,263,Trung binh,122,Trung binh,150,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,10.11
+51,1,Thap,44,Thap,267,Cao,168,Thap,162,Cao,34,Thap,Tieu duong,200,6,4,"[0, 0, 2, 0, 2, 0, 0]",18,10.21
+303,2.8,Trung binh,81,Trung binh ,141,Trung binh,344,Trung binh,98,Trung binh,88,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,10.31
+17,4.2,Trung binh,93,Trung binh,230,Cao,287,Trung binh,138,Cao,129,Trung binh,Tieu duong,202,4,6,"[1, 1, 2, 1, 2, 1, 0]",17,10.41
+76,2,Thap,38,Thap,235,Cao,175,Thap,182,Cao,48,Thap,Tieu duong,201,2,8,"[0, 0, 2, 0, 2, 0, 0]",13,10.51
+28,5.3,Trung binh,93,Trung binh,234,Cao,266,Trung binh,164,Cao,178,Trung binh,Tieu duong,201,4,6,"[1, 1, 2, 1, 2, 1, 0]",21,11.01
+44,6.9,Trung binh,65,Trung binh,273,Cao,396,Trung binh,154,Cao,181,Trung binh,Tieu duong,202,3,7,"[1, 1, 2, 1, 2, 1, 0]",22,11.11
+93,2.2,Thap,30,Thap,201,Cao,155,Thap,168,Cao,38,Thap,Tieu duong,200,4,6,"[0, 0, 2, 0, 2, 0, 0]",21,11.21
+32,5.7,Trung binh,82,Trung binh,241,Cao,282,Trung binh,174,Cao,74,Trung binh,Tieu duong,202,7,3,"[1, 1, 2, 1, 2, 1, 0]",13,11.31
+128,5.4,Trung binh,94,Trung binh,66,Trung binh,519,Cao,118,Trung binh,81,Trung binh,Gut,103,7,3,"[1, 1, 1, 2, 1, 1, 1]",21,11.41
+19,4.4,Trung binh,92,Trung binh,274,Cao,269,Trung binh,169,Cao,175,Trung binh,Tieu duong,201,6,4,"[1, 1, 2, 1, 2, 1, 0]",14,11.51
+319,4.4,Trung binh,92,Trung binh ,181,Trung binh,381,Trung binh,102,Trung binh,152,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,12.01
+144,7,Trung binh,88,Trung binh,186,Trung binh,423,Cao,66,Trung binh,65,Trung binh,Gut,101,4,6,"[1, 1, 1, 2, 1, 1, 1]",23,12.11
+109,3.5,Trung binh,76,Trung binh,62,Trung binh,467,Cao,102,Trung binh,68,Trung binh,Gut,102,4,6,"[1, 1, 1, 2, 1, 1, 1]",12,12.21
+275,9.1,Cao,135,Cao,42,Thap,438,Cao,18,Thap,203,Cao,Suy than,301,1,9,"[2, 2, 0, 2, 0, 2, 2]",19,12.31
+137,6.3,Trung binh,69,Trung binh,149,Trung binh,456,Cao,128,Trung binh,126,Trung binh,Gut,103,7,3,"[1, 1, 1, 2, 1, 1, 1]",24,12.41
+329,2.8,Trung binh,81,Trung binh ,75,Trung binh,350,Trung binh,69,Trung binh,111,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,12.51
+161,2,Thap,38,Thap,48,Thap,442,Cao,127,Trung binh,19,Thap,Gut,103,2,8,"[0, 0, 0 ,2, 1, 0, 1]",13,1.01
+185,1.4,Thap,25,Thap,43,Thap,472,Cao,47,Thap,36,Thap,Gut,103,1,9,"[0, 0, 0, 2, 0, 0, 1]",12,1.11
+149,7.5,Trung binh,95,Trung binh,175,Trung binh,439,Cao,73,Trung binh,83,Trung binh,Gut,103,1,9,"[1, 1, 1, 2, 1, 1, 1]",18,1.21
+70,1.4,Thap,42,Thap,249,Cao,138,Thap,161,Cao,20,Thap,Tieu duong,201,0,10,"[0, 0, 2, 0, 2, 0, 0]",14,1.31
+89,1.8,Thap,32,Thap,269,Cao,145,Thap,151,Cao,39,Thap,Tieu duong,202,4,6,"[0, 0, 2, 0, 2, 0, 0]",21,1.41
+130,5.6,Trung binh,100,Trung binh,122,Trung binh,445,Cao,64,Trung binh,70,Trung binh,Gut,102,0,10,"[1, 1, 1, 2, 1, 1, 1]",20,1.51
+143,6.9,Trung binh,65,Trung binh,199,Trung binh,452,Cao,79,Trung binh,83,Trung binh,Gut,103,0,10,"[1, 1, 1, 2, 1, 1, 1]",15,2.01
+148,7.4,Trung binh,85,Trung binh,129,Trung binh,481,Cao,81,Trung binh,107,Trung binh,Gut,102,5,5,"[1, 1, 1, 2, 1, 1, 1]",18,2.11
+38,6.3,Trung binh,64,Trung binh,284,Cao,350,Trung binh,175,Cao,123,Trung binh,Tieu duong,202,3,7,"[1, 1, 2, 1, 2, 1, 0]",12,2.21
+218,9.4,Cao,116,Cao,103,Trung binh,468,Cao,68,Trung binh,244,Cao,Suy than,301,2,8,"[2, 2, 1, 2, 1, 2, 2]",20,2.31
+175,1.9,Thap,32,Thap,18,Thap,470,Cao,34,Thap,24,Thap,Gut,102,0,10,"[0, 0, 0, 2, 0, 0, 1]",24,2.41
+282,9.8,Cao,113,Cao,144,Thap,426,Cao,42,Thap,217,Cao,Suy than,302,7,3,"[2, 2, 0, 2, 0, 2, 2]",11,2.51
+324,4.9,Trung binh,94,Trung binh ,149,Trung binh,213,Trung binh,100,Trung binh,130,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,3.01
+163,2.2,Thap,42,Thap,32,Thap,485,Cao,112,Trung binh,26,Thap,Gut,102,1,9,"[0, 0, 0 ,2, 1, 0, 1]",20,3.11
+64,2.3,Thap,49,Thap,276,Cao,130,Thap,164,Cao,26,Thap,Tieu duong,201,4,6,"[0, 0, 2, 0, 2, 0, 0]",16,3.21
+193,2.2,Thap,59,Thap,49,Thap,444,Cao,22,Thap,14,Thap,Gut,102,4,6,"[0, 0, 0, 2, 0, 0, 1]",16,3.31
+33,5.8,Trung binh,65,Trung binh,248,Cao,388,Trung binh,172,Cao,90,Trung binh,Tieu duong,200,4,6,"[1, 1, 2, 1, 2, 1, 0]",20,3.41
+301,2.6,Trung binh,75,Trung binh ,63,Trung binh,405,Trung binh,137,Trung binh,99,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,3.51
+339,3.8,Trung binh,61,Trung binh ,55,Trung binh,221,Trung binh,52,Trung binh,57,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,4.01
+106,3.2,Trung binh,79,Trung binh,134,Trung binh,460,Cao,133,Trung binh,179,Trung binh,Gut,102,5,5,"[1, 1, 1, 2, 1, 1, 1]",14,4.11
+331,3,Trung binh,64,Trung binh ,77,Trung binh,314,Trung binh,134,Trung binh,70,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,4.21
+316,4.1,Trung binh,70,Trung binh ,53,Trung binh,377,Trung binh,95,Trung binh,166,Trung binh,Khong,Khong,Khong,Khong,"[1, 1, 1, 1, 1, 1, 3]",Khong,4.31
+256,10.2,Cao,121,Cao,117,Thap,422,Cao,17,Thap,218,Cao,Suy than,303,1,9,"[2, 2, 0, 2, 0, 2, 2]",21,4.41
+7,3.2,Trung binh,85,Trung binh,204,Cao,281,Trung binh,185,Cao,177,Trung binh,Tieu duong,201,4,6,"[1, 1, 2, 1, 2, 1, 0]",13,4.51
+204,8,Cao,124,Cao,134,Trung binh,433,Cao,83,Trung binh,219,Cao,Suy than,302,4,6,"[2, 2, 1, 2, 1, 2, 2]",17,5.01
+277,9.3,Cao,135,Cao,89,Thap,440,Cao,21,Thap,240,Cao,Suy than,303,7,3,"[2, 2, 0, 2, 0, 2, 2]",16,5.11
+276,9.2,Cao,127,Cao,172,Thap,422,Cao,48,Thap,224,Cao,Suy than,302,5,5,"[2, 2, 0, 2, 0, 2, 2]",15,5.21
+1,2.6,Trung binh,79,Trung binh,236,Cao,404,Trung binh,173,Cao,170,Trung binh,Tieu duong,201,0,10,"[1, 1, 2, 1, 2, 1, 0]",21,5.31
+298,8.4,Cao,145,Cao,41,Thap,468,Cao,30,Thap,204,Cao,Suy than,303,3,7,"[2, 2, 0, 2, 0, 2, 2]",20,5.41
+229,10.5,Cao,106,Cao,144,Trung binh,454,Cao,75,Trung binh,231,Cao,Suy than,303,6,4,"[2, 2, 1, 2, 1, 2, 2]",25,5.51
+197,1.1,Thap,41,Thap,37,Thap,470,Cao,38,Thap,32,Thap,Gut,103,7,3,"[0, 0, 0, 2, 0, 0, 1]",18,6.01
+278,9.4,Cao,110,Cao,100,Thap,435,Cao,49,Thap,248,Cao,Suy than,301,7,3,"[2, 2, 0, 2, 0, 2, 2]",15,6.11
+117,4.3,Trung binh,86,Trung binh,97,Trung binh,423,Cao,137,Trung binh,94,Trung binh,Gut,101,5,5,"[1, 1, 1, 2, 1, 1, 1]",22,6.21
+292,7.8,Cao,109,Cao,189,Thap,453,Cao,29,Thap,217,Cao,Suy than,303,6,4,"[2, 2, 0, 2, 0, 2, 2]",20,6.31
+118,4.4,Trung binh,63,Trung binh,187,Trung binh,508,Cao,114,Trung binh,149,Trung binh,Gut,102,0,10,"[1, 1, 1, 2, 1, 1, 1]",15,6.41
+242,8.8,Cao,145,Cao,189,Trung binh,461,Cao,122,Trung binh,221,Cao,Suy than,301,2,8,"[2, 2, 1, 2, 1, 2, 2]",15,6.51
+251,9.7,Cao,134,Cao,159,Thap,459,Cao,36,Thap,215,Cao,Suy than,301,5,5,"[2, 2, 0, 2, 0, 2, 2]",11,7.01
+85,1.4,Thap,39,Thap,274,Cao,164,Thap,143,Cao,26,Thap,Tieu duong,201,0,10,"[0, 0, 2, 0, 2, 0, 0]",19,7.11
